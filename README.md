@@ -14,3 +14,8 @@ Currently, two official plugins are available:
 # useRefHook --- reference Variables
 # useMemo ---   Optimization Purposes
 # useContext --- creating context
+
+# Lazy Loading
+# Chunking
+# on Demand loading
+# Code Splitting

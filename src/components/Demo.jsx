@@ -16,6 +16,7 @@ function Demo(){
 
     function handleY(){
         setY(y+1);
+        console.log(y);
     }
 
     function handleZ(){
